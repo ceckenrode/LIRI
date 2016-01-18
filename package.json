@@ -1,0 +1,38 @@
+{
+  "name": "liri",
+  "version": "1.0.0",
+  "description": "A Language Interpretation and Recognition Interface. A command line node app that takes in arguments and returns data.",
+  "main": "liri.js",
+  "dependencies": {
+    "request": "^2.67.0",
+    "spotify": "^0.3.0",
+    "twitter": "^1.2.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node liri.js my-tweets"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ceckenrode/LIRI.git"
+  },
+  "keywords": [
+    "liri",
+    "twitter",
+    "spotify",
+    "omdb",
+    "siri",
+    "speech",
+    "interpretation",
+    "language",
+    "node",
+    "command",
+    "line"
+  ],
+  "author": "Christian Eckenrode",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ceckenrode/LIRI/issues"
+  },
+  "homepage": "https://github.com/ceckenrode/LIRI#readme"
+}
