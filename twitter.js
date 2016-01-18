@@ -1,7 +1,11 @@
-module.exports = function() {
+module.exports = function(callback) {
   var twitter = require("./keys.js");
   var twitterKeys = twitter.twitterKeys;
   var Twitter = require('twitter');
+  var dataPrefix = "Date: " + new Date() + "\nCommand: my-tweets\nCommand Argument: N/A\n";
+  var dataString = "";
+  var divider = "------------------------------------\
+----------------------------------------------------------------------------------------------------\n"
   var res = [];
 
   var client = new Twitter({
@@ -17,10 +21,10 @@ module.exports = function() {
   client.get('statuses/user_timeline', params, function(error, tweets, response) {
     if (!error) {
       for (var i = 0; i < 20; i++) {
-        res.push(tweets[i]['text']);
-        console.log(res[i]);
+        dataString += tweets[i]['text'] + "\n";
       }
-      return res;
+      console.log(dataString);
+      callback(dataPrefix + dataString + divider);
     }
   });
 
