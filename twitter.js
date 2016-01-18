@@ -5,7 +5,7 @@ module.exports = function(callback) {
   var dataPrefix = "Date: " + new Date() + "\nCommand: my-tweets\nCommand Argument: N/A\n";
   var dataString = "";
   var divider = "------------------------------------\
-----------------------------------------------------------------------------------------------------\n"
+---------------------------------------------------------------------------------------------------\n"
   var res = [];
 
   var client = new Twitter({

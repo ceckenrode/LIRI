@@ -22,7 +22,9 @@ function decider(command, commandArg) {
       });
       break;
     case 'movie-this':
-      movies(commandArg);
+      movies(commandArg, function(data){
+        log(data);
+      });
       break;
     case 'do-what-it-says':
       random(function(data) {

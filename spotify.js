@@ -4,7 +4,7 @@ var spotifyObj = {};
 var dataPrefix = "Date: " + new Date() + "\nCommand: spotify-this-song\nCommand Argument: " + songName + "\n";
 var dataString = "";
 var divider = "------------------------------------\
-----------------------------------------------------------------------------------------------------\n"
+---------------------------------------------------------------------------------------------------\n"
 
 spotify.search({ type: 'track', query: songName }, function(err, data) {
     if ( err ) {

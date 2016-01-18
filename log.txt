@@ -77,3 +77,103 @@ Song: What's My Age Again?
 Preview: https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP
 Album: Enema Of The State (Explicit Version)
 ----------------------------------------------------------------------------------------------------------------------------------------
+Date: Mon Jan 18 2016 16:09:20 GMT-0500 (EST)
+Command: movie-this
+Command Argument: mr nobody
+Title: Mr. Nobody
+Year: 2009
+IMDB: 7.9
+Country: Belgium, Germany, Canada, France
+Language: English, Mohawk
+Plot: A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.
+Actors: Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
+------------------------------------  ----------------------------------------------------------------------------------------------------
+Date: Mon Jan 18 2016 16:10:27 GMT-0500 (EST)
+Command: movie-this
+Command Argument: mr nobody
+Title: Mr. Nobody
+Year: 2009
+IMDB: 7.9
+Country: Belgium, Germany, Canada, France
+Language: English, Mohawk
+Plot: A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.
+Actors: Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
+------------------------------------  ----------------------------------------------------------------------------------------------------
+Date: Mon Jan 18 2016 16:10:58 GMT-0500 (EST)
+Command: movie-this
+Command Argument: mr nobody
+Title: Mr. Nobody
+Year: 2009
+IMDB: 7.9
+Country: Belgium, Germany, Canada, France
+Language: English, Mohawk
+Plot: A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.
+Actors: Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
+----------------------------------------------------------------------------------------------------------------------------------------
+Date: Mon Jan 18 2016 16:11:22 GMT-0500 (EST)
+Command: movie-this
+Command Argument: mr nobody
+Title: Mr. Nobody
+Year: 2009
+IMDB: 7.9
+Country: Belgium, Germany, Canada, France
+Language: English, Mohawk
+Plot: A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.
+Actors: Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
+---------------------------------------------------------------------------------------------------------------------------------------
+Date: Mon Jan 18 2016 16:14:18 GMT-0500 (EST)
+Command: my-tweets
+Command Argument: N/A
+RT @YourAnonNews: Tim Cook wants government officials to come out in favor of unbreakable encryption https://t.co/99fCiDeHHO
+Always.
+I wish I was a morning person.
+RT @tomdelonge: Trump is such a #CockSucker... Sorry..
+RT @barbthisDICK: 😂😂😂😂 https://t.co/pdJlagbMQw
+#inspired https://t.co/fgyUNmFx8z
+Star Wars was the tits
+RT @chloroformable: "Your soul is like your appendix, you don't even use it."
+Present me makes things difficult for future me
+https://t.co/7FWK9StOiP
+@dannnyvarga dude he's like a grandpa you never had or nice old man you actually enjoy talking to
+RT @Pax420: Literally in tears ....the Struggle is real af 😂😂😂https://t.co/VHQKTms4fT
+RT @MensHumor: Can't argue with that logic. https://t.co/zP91FxJo3g
+@megggg_walsh so you mean you're still too mad?
+@rude_honey wouldn't it be great if no one had to work and we just had fun all day instead?
+RT @dailyzen: Everything is connected, and all of your actions have complex unseen ripples of consequences.
+@tferriss why do you have tiger edition that's like 7 years old
+Sick of work sapping away all of my life energy.
+First episode of Ash vs Evil Dead was amazing.
+Man, wish I could skip today entirely.
+----------------------------------------------------------------------------------------------------------------------------------------
+Date: Mon Jan 18 2016 16:14:39 GMT-0500 (EST)
+Command: my-tweets
+Command Argument: N/A
+RT @YourAnonNews: Tim Cook wants government officials to come out in favor of unbreakable encryption https://t.co/99fCiDeHHO
+Always.
+I wish I was a morning person.
+RT @tomdelonge: Trump is such a #CockSucker... Sorry..
+RT @barbthisDICK: 😂😂😂😂 https://t.co/pdJlagbMQw
+#inspired https://t.co/fgyUNmFx8z
+Star Wars was the tits
+RT @chloroformable: "Your soul is like your appendix, you don't even use it."
+Present me makes things difficult for future me
+https://t.co/7FWK9StOiP
+@dannnyvarga dude he's like a grandpa you never had or nice old man you actually enjoy talking to
+RT @Pax420: Literally in tears ....the Struggle is real af 😂😂😂https://t.co/VHQKTms4fT
+RT @MensHumor: Can't argue with that logic. https://t.co/zP91FxJo3g
+@megggg_walsh so you mean you're still too mad?
+@rude_honey wouldn't it be great if no one had to work and we just had fun all day instead?
+RT @dailyzen: Everything is connected, and all of your actions have complex unseen ripples of consequences.
+@tferriss why do you have tiger edition that's like 7 years old
+Sick of work sapping away all of my life energy.
+First episode of Ash vs Evil Dead was amazing.
+Man, wish I could skip today entirely.
+---------------------------------------------------------------------------------------------------------------------------------------
+Date: Mon Jan 18 2016 16:15:04 GMT-0500 (EST)
+Command: spotify-this-song
+Command Argument: baby
+Artist: Michael Bublé
+Song: Santa Baby
+Preview: https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3
+Album: Christmas (Deluxe Special Edition)
+----------------------------------------------------------------------------------------------------------------------------------------
