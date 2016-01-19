@@ -177,3 +177,112 @@ Song: Santa Baby
 Preview: https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3
 Album: Christmas (Deluxe Special Edition)
 ----------------------------------------------------------------------------------------------------------------------------------------
+Date: Mon Jan 18 2016 16:18:02 GMT-0500 (EST)
+Command: my-tweets
+Command Argument: N/A
+RT @YourAnonNews: Tim Cook wants government officials to come out in favor of unbreakable encryption https://t.co/99fCiDeHHO
+Always.
+I wish I was a morning person.
+RT @tomdelonge: Trump is such a #CockSucker... Sorry..
+RT @barbthisDICK: 😂😂😂😂 https://t.co/pdJlagbMQw
+#inspired https://t.co/fgyUNmFx8z
+Star Wars was the tits
+RT @chloroformable: "Your soul is like your appendix, you don't even use it."
+Present me makes things difficult for future me
+https://t.co/7FWK9StOiP
+@dannnyvarga dude he's like a grandpa you never had or nice old man you actually enjoy talking to
+RT @Pax420: Literally in tears ....the Struggle is real af 😂😂😂https://t.co/VHQKTms4fT
+RT @MensHumor: Can't argue with that logic. https://t.co/zP91FxJo3g
+@megggg_walsh so you mean you're still too mad?
+@rude_honey wouldn't it be great if no one had to work and we just had fun all day instead?
+RT @dailyzen: Everything is connected, and all of your actions have complex unseen ripples of consequences.
+@tferriss why do you have tiger edition that's like 7 years old
+Sick of work sapping away all of my life energy.
+First episode of Ash vs Evil Dead was amazing.
+Man, wish I could skip today entirely.
+---------------------------------------------------------------------------------------------------------------------------------------
+Date: Mon Jan 18 2016 16:21:31 GMT-0500 (EST)
+Command: spotify-this-song
+Command Argument: Guernica
+Artist: Brand New
+Song: Guernica
+Preview: https://open.spotify.com/artist/168dgYui7ExaU612eooDF1
+Album: Deja Entendu
+---------------------------------------------------------------------------------------------------------------------------------------
+spotify-this-song "I Want it That Way" called from the random.txt file.Date: Mon Jan 18 2016 18:21:47 GMT-0500 (EST)
+Command: spotify-this-song
+Command Argument: "I Want it That Way"
+Artist: Backstreet Boys
+Song: I Want It That Way
+Preview: https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7
+Album: The Hits--Chapter One
+---------------------------------------------------------------------------------------------------------------------------------------
+Called from the random.txt file: spotify-this-song "I Want it That Way"Date: Mon Jan 18 2016 18:22:58 GMT-0500 (EST)
+Command: spotify-this-song
+Command Argument: "I Want it That Way"
+Artist: Backstreet Boys
+Song: I Want It That Way
+Preview: https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7
+Album: The Hits--Chapter One
+---------------------------------------------------------------------------------------------------------------------------------------
+Called from the random.txt file.
+Date: Mon Jan 18 2016 18:24:23 GMT-0500 (EST)
+Command: spotify-this-song
+Command Argument: "I Want it That Way"
+Artist: Backstreet Boys
+Song: I Want It That Way
+Preview: https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7
+Album: The Hits--Chapter One
+---------------------------------------------------------------------------------------------------------------------------------------
+Mon Jan 18 2016 18:36:12 GMT-0500 (EST)
+Error. Invalid Argument.
+User Input do-what-it-say
+---------------------------------------------------------------------------------------------------------------------------------------
+Mon Jan 18 2016 18:37:16 GMT-0500 (EST)
+Error. Invalid Argument.
+User Input do-what-it-say df
+---------------------------------------------------------------------------------------------------------------------------------------
+Mon Jan 18 2016 18:37:59 GMT-0500 (EST)
+Error. Invalid Argument.
+User Input do-what-it-say df dds
+---------------------------------------------------------------------------------------------------------------------------------------
+Mon Jan 18 2016 18:39:45 GMT-0500 (EST)
+Called do-what-it-says from the random.txt file.
+Date: Mon Jan 18 2016 18:39:45 GMT-0500 (EST)
+Command: spotify-this-song
+Command Argument: "I Want it That Way"
+Artist: Backstreet Boys
+Song: I Want It That Way
+Preview: https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7
+Album: The Hits--Chapter One
+---------------------------------------------------------------------------------------------------------------------------------------
+Mon Jan 18 2016 18:40:16 GMT-0500 (EST)
+Called do-what-it-says from the random.txt file.
+---------------------------------------------------------------------------------------------------------------------------------------
+Date: Mon Jan 18 2016 18:40:16 GMT-0500 (EST)
+Command: spotify-this-song
+Command Argument: "I Want it That Way"
+Artist: Backstreet Boys
+Song: I Want It That Way
+Preview: https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7
+Album: The Hits--Chapter One
+---------------------------------------------------------------------------------------------------------------------------------------
+Mon Jan 18 2016 18:43:17 GMT-0500 (EST)
+Called do-what-it-says from the random.txt file.
+---------------------------------------------------------------------------------------------------------------------------------------
+Date: Mon Jan 18 2016 18:43:17 GMT-0500 (EST)
+Command: spotify-this-song
+Command Argument: "I Want it That Way"
+Artist: Backstreet Boys
+Song: I Want It That Way
+Preview: https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7
+Album: The Hits--Chapter One
+---------------------------------------------------------------------------------------------------------------------------------------
+Mon Jan 18 2016 18:43:20 GMT-0500 (EST)
+Error: Invalid Argument
+User Input: do-what-it-say
+---------------------------------------------------------------------------------------------------------------------------------------
+Mon Jan 18 2016 18:44:54 GMT-0500 (EST)
+Error: Invalid Argument
+User Input: do-what-it-say
+---------------------------------------------------------------------------------------------------------------------------------------
