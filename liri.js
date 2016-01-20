@@ -18,7 +18,7 @@ decider(command, commandArg);
 function decider(command, commandArg) {
   switch (command) {
     case 'my-tweets':
-      tweets(function(data) {
+      tweets(commandArg, function(data) {
         log(data);
       });
       break;
